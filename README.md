@@ -1,5 +1,5 @@
 # Ultimate TicTacToe
-Ultimate TicTacToe that allows PVE and PVP 
 
-Second project for the second semester at Business Academy Southwest. Implemented the rules of an ultimate tic tac toe game, as well as an AI allowing the user to choose between PVE and PVP.Done with @schemabuoi and @Metalist1
+Second project for the second semester at Business Academy Southwest. Implementing Ultimate Tic Tac Toe game using template provided by teachers. Template contained interfaces that describes logic that needs to be implemented. Task was also to implement AI for the game.
 
+Time for the completion: 2 weeks.
